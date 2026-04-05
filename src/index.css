@@ -1,0 +1,13 @@
+.primary-text-color{
+  color: #BA8B62;
+} 
+
+.justify{
+  text-align: justify;
+}
+
+.primary-button{
+  text-decoration: none;
+  background-color: #BA8B62;
+  color: #fff;
+}
