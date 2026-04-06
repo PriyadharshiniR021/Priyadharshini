@@ -11,3 +11,7 @@
   background-color: #BA8B62;
   color: #fff;
 }
+
+body{
+  overflow-x:hidden;
+}
